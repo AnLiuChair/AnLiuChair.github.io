@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-30T08:21:35.603Z</updated>
+  <updated>2022-12-31T14:22:37.124Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,22 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://example.com/2022/12/30/48%E5%A4%A9%E5%AD%A6%E5%AE%8C%E8%A5%BF%E7%93%9C%E4%B9%A6/"/>
-    <id>http://example.com/2022/12/30/48%E5%A4%A9%E5%AD%A6%E5%AE%8C%E8%A5%BF%E7%93%9C%E4%B9%A6/</id>
-    <published>2022-12-30T08:19:02.414Z</published>
-    <updated>2022-12-30T08:21:35.603Z</updated>
+    <title>博客搭建记录</title>
+    <link href="http://example.com/2022/12/31/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/"/>
+    <id>http://example.com/2022/12/31/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/</id>
+    <published>2022-12-31T14:10:54.627Z</published>
+    <updated>2022-12-31T14:22:37.124Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="48天学完西瓜书"><a href="#48天学完西瓜书" class="headerlink" title="48天学完西瓜书"></a>48天学完西瓜书</h1><p>任务是每三天完成一个章节的学习与总结，不懂的地方写成博客，尤其关注数学的部分！想要打好数学的基础。</p><p>同时想开一个任务，完成自己学习路径的总结，包括各个方面的总结：书籍、交往能力、心理、哲学、写作、编程。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="博客更新记录"><a href="#博客更新记录" class="headerlink" title="博客更新记录"></a>博客更新记录</h1><p><em>2022.12.31</em></p><ol><li>添加评论系统：<a href="https://www.bilibili.com/video/BV1U64y1a7tM/?spm_id_from=pageDriver&vd_source=d66a2a73bb6828948f551b376962deb9">来必力</a></li><li><strong>内容更新</strong>：关于Python画图的内容</li><li>下次添加背景图片与背景音乐</li></ol>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;48天学完西瓜书&quot;&gt;&lt;a href=&quot;#48天学完西瓜书&quot; class=&quot;headerlink&quot; title=&quot;48天学完西瓜书&quot;&gt;&lt;/a&gt;48天学完西瓜书&lt;/h1&gt;&lt;p&gt;任务是每三天完成一个章节的学习与总结，不懂的地方写成博客，尤其关注数学的部分！想要打好数学的</summary>
+    <summary type="html">&lt;h1 id=&quot;博客更新记录&quot;&gt;&lt;a href=&quot;#博客更新记录&quot; class=&quot;headerlink&quot; title=&quot;博客更新记录&quot;&gt;&lt;/a&gt;博客更新记录&lt;/h1&gt;&lt;p&gt;&lt;em&gt;2022.12.31&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;添加评论系统：&lt;a href=&quot;https</summary>
       
     
     
     
+    <category term="博客搭建" scheme="http://example.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+    <category term="记录" scheme="http://example.com/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
