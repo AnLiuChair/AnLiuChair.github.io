@@ -1,4 +1,3 @@
-<p>������������"config"�е�"inject"������</p>
 ```YML
 inject:
   head:
