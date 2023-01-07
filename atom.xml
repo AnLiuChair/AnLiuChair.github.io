@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-31T15:31:09.878Z</updated>
+  <updated>2023-01-02T16:29:11.424Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>科研日记</title>
+    <link href="http://example.com/2023/01/03/%E7%A7%91%E7%A0%94%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%95/"/>
+    <id>http://example.com/2023/01/03/%E7%A7%91%E7%A0%94%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%95/</id>
+    <published>2023-01-02T16:24:06.233Z</published>
+    <updated>2023-01-02T16:29:11.424Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="科研日记"><a href="#科研日记" class="headerlink" title="科研日记"></a>科研日记</h1><h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><p>寒假写完高光谱的英文论文和一篇综述</p><h2 id="2023-01-02"><a href="#2023-01-02" class="headerlink" title="2023.01.02"></a><em>2023.01.02</em></h2><ol><li>把杨树多光谱的程序写完了</li><li>明天做看周磊老师的博士论文，分析高光谱数据，写几段高光谱的前言。做多的我不管你。</li></ol><h2 id="论文阅读记录"><a href="#论文阅读记录" class="headerlink" title="论文阅读记录"></a>论文阅读记录</h2><ol><li>周磊老师浙江大学博士毕业论文</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;科研日记&quot;&gt;&lt;a href=&quot;#科研日记&quot; class=&quot;headerlink&quot; title=&quot;科研日记&quot;&gt;&lt;/a&gt;科研日记&lt;/h1&gt;&lt;h2 id=&quot;目标&quot;&gt;&lt;a href=&quot;#目标&quot; class=&quot;headerlink&quot; title=&quot;目标&quot;&gt;&lt;/a&gt;目标&lt;/h</summary>
+      
+    
+    
+    
+    <category term="科研" scheme="http://example.com/categories/%E7%A7%91%E7%A0%94/"/>
+    
+    
+    <category term="记录" scheme="http://example.com/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="科研" scheme="http://example.com/tags/%E7%A7%91%E7%A0%94/"/>
+    
+    <category term="光谱" scheme="http://example.com/tags/%E5%85%89%E8%B0%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2023/01/01/Python%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+    <id>http://example.com/2023/01/01/Python%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</id>
+    <published>2023-01-01T15:31:36.009Z</published>
+    <updated>2023-01-01T16:03:24.282Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Python正则表达式"><a href="#Python正则表达式" class="headerlink" title="Python正则表达式"></a>Python正则表达式</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Python正则表达式&quot;&gt;&lt;a href=&quot;#Python正则表达式&quot; class=&quot;headerlink&quot; title=&quot;Python正则表达式&quot;&gt;&lt;/a&gt;Python正则表达式&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>区分Matplotlib的三个对象</title>
@@ -47,9 +95,9 @@
     <link href="http://example.com/2022/12/31/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/"/>
     <id>http://example.com/2022/12/31/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/</id>
     <published>2022-12-31T14:10:54.627Z</published>
-    <updated>2023-01-01T06:41:41.688Z</updated>
+    <updated>2023-01-01T15:28:54.207Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="博客更新记录"><a href="#博客更新记录" class="headerlink" title="博客更新记录"></a>博客更新记录</h1><h2 id="2022-12-31"><a href="#2022-12-31" class="headerlink" title="2022.12.31"></a><em>2022.12.31</em></h2><ol><li>添加评论系统：<a href="https://www.bilibili.com/video/BV1U64y1a7tM/?spm_id_from=pageDriver&vd_source=d66a2a73bb6828948f551b376962deb9">来必力</a></li><li><strong>内容更新</strong>：关于Python画图的内容</li></ol><h2 id="2023-01-01"><a href="#2023-01-01" class="headerlink" title="2023.01.01"></a>2023.01.01</h2><ol><li>添加背景图片或者视频，参考博客</li><li><strong>内容更新</strong>：关于Python正则表达式的使用</li><li>添加背景音乐</li><li>下次更新个人信息内容的添加</li><li>下下次添加头部信息链接</li><li>要添加自己独一无二的技术内容，技术展示要可视化。</li><li><a href="https://www.antmoe.com/posts/a811d614/index.html">主题魔改</a></li></ol><h2 id="参考的友链"><a href="#参考的友链" class="headerlink" title="参考的友链"></a>参考的友链</h2><p><a href="https://zfe.space/">しゅふがく</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="博客更新记录"><a href="#博客更新记录" class="headerlink" title="博客更新记录"></a>博客更新记录</h1><h2 id="2022-12-31"><a href="#2022-12-31" class="headerlink" title="2022.12.31"></a><em>2022.12.31</em></h2><ol><li>添加评论系统：<a href="https://www.bilibili.com/video/BV1U64y1a7tM/?spm_id_from=pageDriver&vd_source=d66a2a73bb6828948f551b376962deb9">来必力</a></li><li><strong>内容更新</strong>：关于Python画图的内容</li></ol><h2 id="2023-01-01"><a href="#2023-01-01" class="headerlink" title="2023.01.01"></a>2023.01.01</h2><ol><li>添加背景图片或者视频，参考官方文档，加载时间有点长，需要改进。</li><li><strong>内容更新</strong>：关于Python正则表达式的使用</li><li>添加背景音乐</li><li>下次更新个人信息内容的添加</li><li>下下次添加头部信息链接</li><li>要添加自己独一无二的技术内容，技术展示要可视化。</li><li><a href="https://www.antmoe.com/posts/a811d614/index.html">主题魔改</a></li></ol><h2 id="参考的友链"><a href="#参考的友链" class="headerlink" title="参考的友链"></a>参考的友链</h2><p><a href="https://zfe.space/">しゅふがく</a></p>]]></content>
     
     
       
