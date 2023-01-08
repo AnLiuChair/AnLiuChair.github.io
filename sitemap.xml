@@ -58,64 +58,64 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2023-01-07</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/Python/</loc>
-    <lastmod>2023-01-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/Matplotlib/</loc>
-    <lastmod>2023-01-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2023-01-07</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2023-01-07</lastmod>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Python/</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Matplotlib/</loc>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E7%A7%91%E7%A0%94/</loc>
-    <lastmod>2023-01-07</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E5%85%89%E8%B0%B1/</loc>
-    <lastmod>2023-01-07</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2023-01-07</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E5%AE%9A%E4%B9%89/</loc>
-    <lastmod>2023-01-07</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -123,29 +123,29 @@
 
   
   <url>
-    <loc>http://example.com/categories/Python/</loc>
-    <lastmod>2023-01-07</lastmod>
+    <loc>http://example.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2023-01-07</lastmod>
+    <loc>http://example.com/categories/Python/</loc>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/%E7%A7%91%E7%A0%94/</loc>
-    <lastmod>2023-01-07</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2023-01-07</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
