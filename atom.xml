@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-08T14:48:45.660Z</updated>
+  <updated>2023-01-11T07:03:31.406Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>科研日记</title>
-    <link href="http://example.com/2023/01/03/%E7%A7%91%E7%A0%94%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%95/"/>
-    <id>http://example.com/2023/01/03/%E7%A7%91%E7%A0%94%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%95/</id>
-    <published>2023-01-02T16:24:06.233Z</published>
-    <updated>2023-01-08T14:48:45.660Z</updated>
+    <title>个人信息</title>
+    <link href="http://example.com/2023/01/11/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF/"/>
+    <id>http://example.com/2023/01/11/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF/</id>
+    <published>2023-01-11T06:42:11.986Z</published>
+    <updated>2023-01-11T07:03:31.406Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="科研日记"><a href="#科研日记" class="headerlink" title="科研日记"></a>科研日记</h1><h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><p>寒假写完高光谱的英文论文和一篇综述</p><h2 id="2023-01-02"><a href="#2023-01-02" class="headerlink" title="2023.01.02"></a><em>2023.01.02</em></h2><ol><li>把杨树多光谱的程序写完了</li><li>明天做看周磊老师的博士论文，分析高光谱数据，写几段高光谱的前言。做多的我不管你。</li></ol><h2 id="2023-01-08"><a href="#2023-01-08" class="headerlink" title="2023.01.08"></a>2023.01.08</h2><p><img src="C:\Users\86151\AppData\Roaming\Typora\typora-user-images\1673189300330.png" alt="1673189300330"></p><ol><li>值得记录的文献内容</li></ol><h2 id="借鉴的博客"><a href="#借鉴的博客" class="headerlink" title="借鉴的博客"></a>借鉴的博客</h2><ol><li><a href="https://blog.csdn.net/doubleguy/article/details/120008554">调整Matplotlib子图的大小</a></li><li></li></ol><h2 id="论文阅读记录"><a href="#论文阅读记录" class="headerlink" title="论文阅读记录"></a>论文阅读记录</h2><ol><li>周磊老师浙江大学博士毕业论文</li></ol>]]></content>
+    <content type="html"><![CDATA[<p><img src="D:\Blog\themes\butterfly\source\img\网站图标_猫咖黑猫.jpg" alt="博主头像"></p><h1 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h1><ul><li>巫珂\男\2002</li><li>本科\南京林业大学\理学院\应用数学系\信息与计算科学</li><li>工作年限：大三</li><li>博客：<a href="anliuchair.github.io">anliuchair.github.io</a></li><li>所在城市：安阳 and 南京</li><li>主要学习内容：统计学、机器学习、Python、MatLab。</li><li>技术框架：数据分析</li></ul><h1 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h1><ul><li>微信：<code>Wliem_</code></li><li>QQ：<code>3120652779</code></li><li>邮箱：<code>3120652779@qq.com</code> and <code>William@njfu.edu</code></li><li>电话号码：<code>15137291042</code></li><li>备用电话：<code>18013357291</code></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;D:\Blog\themes\butterfly\source\img\网站图标_猫咖黑猫.jpg&quot; alt=&quot;博主头像&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;个人信息&quot;&gt;&lt;a href=&quot;#个人信息&quot; class=&quot;headerlink&quot; title=&quot;个人信息</summary>
+      
+    
+    
+    
+    <category term="简历" scheme="http://example.com/categories/%E7%AE%80%E5%8E%86/"/>
+    
+    
+    <category term="个人信息" scheme="http://example.com/tags/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>科研日记</title>
+    <link href="http://example.com/2023/01/11/%E7%A7%91%E7%A0%94%E5%91%A8%E8%AE%B0/"/>
+    <id>http://example.com/2023/01/11/%E7%A7%91%E7%A0%94%E5%91%A8%E8%AE%B0/</id>
+    <published>2023-01-11T06:08:38.032Z</published>
+    <updated>2023-01-09T11:13:26.130Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="科研日记"><a href="#科研日记" class="headerlink" title="科研日记"></a>科研日记</h1><h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><p>寒假写完高光谱的英文论文和一篇综述</p><h2 id="2023-01-02"><a href="#2023-01-02" class="headerlink" title="2023.01.02"></a><em>2023.01.02</em></h2><ol><li>把杨树多光谱的程序写完了</li><li>明天做看周磊老师的博士论文，分析高光谱数据，写几段高光谱的前言。做多的我不管你。</li></ol><h2 id="2023-01-08"><a href="#2023-01-08" class="headerlink" title="2023.01.08"></a><em>2023.01.08</em></h2><p><img src="C:\Users\86151\AppData\Roaming\Typora\typora-user-images\1673189300330.png" alt="1673189300330"></p><ol><li>值得记录的文献内容</li></ol><h2 id="借鉴的博客"><a href="#借鉴的博客" class="headerlink" title="借鉴的博客"></a>借鉴的博客</h2><ol><li><a href="https://blog.csdn.net/doubleguy/article/details/120008554">调整Matplotlib子图的大小</a></li><li><a href="https://blog.csdn.net/qq_36468195/article/details/108590831#:~:text=%E4%BD%BF%E7%94%A8python%E7%9A%84matplotlib.pyplot%E7%BB%98%E5%88%B6%E5%9B%BE%E5%83%8F%E6%97%B6%E6%B7%BB%E5%8A%A0%E5%9B%BE%E4%BE%8B%201%20import%20matplotlib.pyplot%20as%20plt%202%20import,7%20y2%20%3D%20np.cos%20%28x1%29%208%20%23%E5%9C%A8%E7%BB%98%E5%88%B6%E5%9B%BE%E5%83%8F%E6%97%B6%E5%AE%9A%E4%B9%89%E6%AF%8F%E6%9D%A1%E5%87%BD%E6%95%B0%E5%9B%BE%E5%83%8F%E7%9A%84label%E5%80%BC%EF%BC%8C%E7%94%A8%E4%BA%8E%E6%98%BE%E7%A4%BA%E5%9C%A8%E5%9B%BE%E4%BE%8B%E4%B8%8A%20%E6%9B%B4%E5%A4%9A%E9%A1%B9%E7%9B%AE">添加图例</a></li><li></li></ol><h2 id="论文阅读记录"><a href="#论文阅读记录" class="headerlink" title="论文阅读记录"></a>论文阅读记录</h2><ol><li>周磊老师浙江大学博士毕业论文</li></ol>]]></content>
     
     
       
@@ -41,6 +66,36 @@
     <category term="科研" scheme="http://example.com/tags/%E7%A7%91%E7%A0%94/"/>
     
     <category term="光谱" scheme="http://example.com/tags/%E5%85%89%E8%B0%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>科研周记</title>
+    <link href="http://example.com/2023/01/03/%E7%A7%91%E7%A0%94%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%95/"/>
+    <id>http://example.com/2023/01/03/%E7%A7%91%E7%A0%94%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%95/</id>
+    <published>2023-01-02T16:24:06.233Z</published>
+    <updated>2023-01-11T06:41:50.565Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="科研周记"><a href="#科研周记" class="headerlink" title="科研周记"></a>科研周记</h1><h2 id="第一周（2023-01-05-2023-01-11）"><a href="#第一周（2023-01-05-2023-01-11）" class="headerlink" title="第一周（2023.01.05~2023.01.11）"></a>第一周（2023.01.05~2023.01.11）</h2><p>本周同时进行了杨树叶锈病和猕猴桃高温干旱胁迫两两篇论文。杨树叶锈病在明天和贾老师汇报之前，出来了一个初步的结果，证明了K均值处理原始数据方法的有效性。下周进行的工作按顺序应该是：得到四个较好的预测结果，改善绘图表达效果，调整文章框架，补充文字内容。猕猴桃高温干旱胁迫，上周确定了整体思路，一边参照其他论文一边写了一些文字，画出了反射曲线图，后面可以补充spearman相关系数。下周进行的工作顺序是：建立文章框架，整理文字部分，特征工程，分析数据并且制图。</p><p>调整自己的心态，更加关注自己的需求。贾老板给的压力大，并不一定要直接推掉，可以采取摆烂拖延的方法。“上有政策，下有对策”。摆烂，每个小周期拿出来清晰的进展即可，而不是每一次都满足贾老板提出的要求。因为直接推掉不太可能成功，贾老板怎么可能听你说直接放弃这一篇的数据？同时，你要按照同样甚至更快地进度写高光谱的论文，可以写完之后再协商作者和期刊的问题。</p><h2 id="第二周（2023-01-12-2023-01-18）"><a href="#第二周（2023-01-12-2023-01-18）" class="headerlink" title="第二周（2023.01.12~2023.01.18）"></a>第二周（2023.01.12~2023.01.18）</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;科研周记&quot;&gt;&lt;a href=&quot;#科研周记&quot; class=&quot;headerlink&quot; title=&quot;科研周记&quot;&gt;&lt;/a&gt;科研周记&lt;/h1&gt;&lt;h2 id=&quot;第一周（2023-01-05-2023-01-11）&quot;&gt;&lt;a href=&quot;#第一周（2023-01-05-2023</summary>
+      
+    
+    
+    
+    <category term="科研" scheme="http://example.com/categories/%E7%A7%91%E7%A0%94/"/>
+    
+    
+    <category term="记录" scheme="http://example.com/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="科研" scheme="http://example.com/tags/%E7%A7%91%E7%A0%94/"/>
+    
+    <category term="光谱" scheme="http://example.com/tags/%E5%85%89%E8%B0%B1/"/>
+    
+    <category term="周记" scheme="http://example.com/tags/%E5%91%A8%E8%AE%B0/"/>
     
   </entry>
   
@@ -95,9 +150,9 @@
     <link href="http://example.com/2022/12/31/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/"/>
     <id>http://example.com/2022/12/31/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/</id>
     <published>2022-12-31T14:10:54.627Z</published>
-    <updated>2023-01-09T03:18:52.620Z</updated>
+    <updated>2023-01-11T07:05:46.690Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="博客更新记录"><a href="#博客更新记录" class="headerlink" title="博客更新记录"></a>博客更新记录</h1><h2 id="2022-12-31"><a href="#2022-12-31" class="headerlink" title="2022.12.31"></a><em>2022.12.31</em></h2><ol><li>添加评论系统：<a href="https://www.bilibili.com/video/BV1U64y1a7tM/?spm_id_from=pageDriver&vd_source=d66a2a73bb6828948f551b376962deb9">来必力</a></li><li><strong>内容更新</strong>：关于Python画图的内容</li></ol><h2 id="2023-01-01"><a href="#2023-01-01" class="headerlink" title="2023.01.01"></a>2023.01.01</h2><ol><li>添加背景图片或者视频，参考官方文档，加载时间有点长，需要改进。最终选择了小一点的图片，临时图片.jpg.</li></ol><h2 id="2023-01-09"><a href="#2023-01-09" class="headerlink" title="2023.01.09"></a>2023.01.09</h2><ol><li>下次更新个人信息内容的添加</li><li>图片压缩应该也可以提升加载速度</li><li><strong>内容更新</strong>：关于Python正则表达式的使用</li><li>下下次添加头部信息链接</li><li>要添加自己独一无二的技术内容，技术展示要可视化。</li><li>适配哔哩哔哩动态，知乎动态，豆瓣动态。</li><li><a href="https://www.antmoe.com/posts/a811d614/index.html">主题魔改</a></li><li>添加背景音乐</li></ol><h2 id="参考的友链"><a href="#参考的友链" class="headerlink" title="参考的友链"></a>参考的友链</h2><p><a href="https://zfe.space/">しゅふがく</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="博客更新记录"><a href="#博客更新记录" class="headerlink" title="博客更新记录"></a>博客更新记录</h1><h2 id="2022-12-31"><a href="#2022-12-31" class="headerlink" title="2022.12.31"></a><em>2022.12.31</em></h2><ol><li>添加评论系统：<a href="https://www.bilibili.com/video/BV1U64y1a7tM/?spm_id_from=pageDriver&vd_source=d66a2a73bb6828948f551b376962deb9">来必力</a></li><li><strong>内容更新</strong>：关于Python画图的内容</li></ol><h2 id="2023-01-01"><a href="#2023-01-01" class="headerlink" title="2023.01.01"></a>2023.01.01</h2><ol><li>添加背景图片或者视频，参考官方文档，加载时间有点长，需要改进。最终选择了小一点的图片，临时图片.jpg.</li></ol><h2 id="2023-01-09"><a href="#2023-01-09" class="headerlink" title="2023.01.09"></a>2023.01.09</h2><ol><li>下次更新个人信息内容的添加<br>在索引栏添加了个人信息项，可以专门写一个Markdown链接到个人信息。</li><li>图片压缩应该也可以提升加载速度</li></ol><h2 id="2023-01-11"><a href="#2023-01-11" class="headerlink" title="2023.01.11"></a>2023.01.11</h2><ol><li><p>增加了个人简历页面并且链接到导航栏</p></li><li><p><strong>内容更新</strong>：关于Python正则表达式的使用</p></li><li><p>添加头部信息链接</p></li><li><p>要添加自己独一无二的技术内容，技术展示要可视化。</p></li><li><p>适配哔哩哔哩动态，知乎动态，豆瓣动态，微信公众号。</p></li><li><p><a href="https://www.antmoe.com/posts/a811d614/index.html">主题魔改</a></p></li><li><p>添加背景音乐</p></li></ol><h2 id="参考的友链"><a href="#参考的友链" class="headerlink" title="参考的友链"></a>参考的友链</h2><p><a href="https://zfe.space/">しゅふがく</a></p>]]></content>
     
     
       
